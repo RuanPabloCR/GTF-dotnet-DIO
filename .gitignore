@@ -1,0 +1,55 @@
+# .NET Core / .NET
+bin/
+obj/
+out/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+*.vscode/
+*.dbmdl
+*.log
+*.pdb
+*.cache
+*.config
+*.ide/
+*.pidb
+*.svclog
+*.psess
+*.vsp
+*.vspscc
+*.tmp
+*.nupkg
+*.snk
+*.publish/
+TestResults/
+build/
+packages/
+*.nuget/
+*.DS_Store
+*.orig
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotCover
+*.dotCover
+
+# Azure Pipelines
+*.azure-pipelines/
+
+# Local history
+.localhistory/
+
+# Others
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
